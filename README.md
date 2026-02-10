@@ -1,4 +1,4 @@
-Kurs: "Dlaczego hackowanie aplikacji webowych jest proste? Przegląd najnowszych/najciekawszych luk bezpieczeństwa w aplikacjach"
+Szkolenie: "Dlaczego hackowanie aplikacji webowych jest proste? Przegląd najnowszych/najciekawszych luk bezpieczeństwa w aplikacjach"
 
 Autor: Michał Sajdak, Sekurak
 

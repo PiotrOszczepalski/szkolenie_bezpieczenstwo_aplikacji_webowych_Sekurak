@@ -15,7 +15,7 @@ Spis treści:
    - odwołanie w komunikacji http do zasobu na AWS, w odpowiedzi można było uzyskać uwierzytelnienie dla pełnego administratora
   
 4) McDelivery w Indiach:
-   - możliwość zmiany wartości koszyka i zamówienie jedzenia prawie za darmo
+   - możliwość zmiany wartości koszyka i zamówienia jedzenia prawie za darmo
   
 5) MC Hire:
    - poprzez login i hasło 123456 można było dostać się do panelu admistratora testowej restauracji McDonald's oraz uzyskać dostęp do rozmów kandydatów ubiegających się o pracę
@@ -33,5 +33,5 @@ Spis treści:
 
 9) TinyBox - serwery VPS:
    - podatność umożliwiająca dostęp do bazy danych
-   - możliwość tworzenia za darmo wirualnych serwerów
+   - możliwość tworzenia za darmo wirtualnych serwerów
    - kod aplikacji TinyBox został wygenerowany w 100% przez AI i nie uwzględnił ważnych aspektów bezpieczeństwa

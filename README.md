@@ -17,7 +17,7 @@ Spis treści:
 4) McDelivery w Indiach:
    - możliwość zmiany wartości koszyka i zamówienia jedzenia prawie za darmo
   
-5) MC Hire:
+5) McHire:
    - poprzez login i hasło 123456 można było dostać się do panelu admistratora testowej restauracji McDonald's oraz uzyskać dostęp do rozmów kandydatów ubiegających się o pracę
 
 6) Aplikacja Subaru:

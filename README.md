@@ -14,14 +14,14 @@ Spis treści:
 3) Aplikacja AI dla prawników FileVine:
    - odwołanie w komunikacji http do zasobu na AWS, w odpowiedzi można było uzyskać uwierzytelnienie dla pełnego administratora
   
-4) McDelivery w Indiach:
+4) Aplikacja McDelivery w Indiach:
    - możliwość zmiany wartości koszyka i zamówienia jedzenia prawie za darmo
   
-5) McHire:
+5) Oprogramowanie McHire:
    - poprzez login i hasło 123456 można było dostać się do panelu admistratora testowej restauracji McDonald's oraz uzyskać dostęp do rozmów kandydatów ubiegających się o pracę
 
 6) Aplikacja Subaru:
-   - łatwy reset hasła w ukrytym panelu logowania i dostęp do aplikacji, gdzie można było poznać lokalizację samochodów
+   - ominięcie 2FA, łatwy reset hasła w ukrytym panelu logowania i dostęp do aplikacji, gdzie można było poznać lokalizację samochodów
 
 7) Aplikacja Gitlab:
    - bardzo podobna podatność do FlowiseAI, możliwość resetu hasła użytkownikowi i włamania na konto
@@ -35,3 +35,53 @@ Spis treści:
    - podatność umożliwiająca dostęp do bazy danych
    - możliwość tworzenia za darmo wirtualnych serwerów
    - kod aplikacji TinyBox został wygenerowany w 100% przez AI i nie uwzględnił ważnych aspektów bezpieczeństwa
+
+10) Aplikacje Triofox i Confluence:
+   - podatność umożliwiająca stworzenia więcej niż jednego administratora
+
+11) King addons for Elementor - plugin Wordpress:
+   - możliwość stworzenia nowego użytkownika z uprawnieniami admistratora całkowicie anonimowo
+
+12) Internetowe konto pacjenta:
+   - poprzez modyfikacje adresu URL można było uzyskać dokumentacje medyczne innych pacjentów
+
+13) Wielkopolskie Centrum Medycyny Pracy:
+   - ta sama podatność co IKP
+
+14) Platforma HackerOne:
+   - również poprzez modyfikację id w adresie url można było uzyskać dostęp do raportów audytów bezpieczeństwa innych aplikacji
+
+15) Aplikacja F1:
+   - możliwość zarejestrowania się jako administrator poprzez analizę kodu JS i uzyskania danych o kierowcach
+
+16) Aplikacja elektronicznych rejestracji samochodowych w USA:
+    - ta sama podatność co w F1
+    - możliwość ustawienia statusu dowolnego samochodu jako kradziony
+
+17) GoAnywhere  - aplikacja do wymiany plików:
+    - poprzez specjalne wywołanie błędu 404 możba było wykonać dowolny kod na serwerze
+
+18) Czym jest SSRF?
+
+19) Oracle E-Business Suite:
+    - z pomocą SSRF znaleziono podatność pozwalającą na wykonanie złośliwego oprogramowania na serwerze
+
+20) Oracle Identity Manager oraz produkty firmy Ivanti:
+    - możliwość RCE na serwerze
+   
+21) Urządzenie Ubiquiti:
+    - w centralnym gateway można było odwołać się do specyficznego portu i wykonać skrypt na serwerze
+
+22) Kamera PTZOptics:
+    - błąd w oprogramowaniu i możliwość nieautoryzowanego zarządzania nią
+
+23) FortiWeb -  zapora aplikacji internetowych:
+    - SQL Injection na panelu logowania
+
+24) CentOs - środowisko serwerowe:
+    - możliwość zmiany uprawnień do plików bez autoryzacji
+
+25) Omówienie OWASP Top 10 - raportu, który identyfikuje dziesięć najbardziej krytycznych zagrożeń dla bezpieczeństwa aplikacji internetowych:
+    - najczęstsze podatności to błędy związane z uwierzytelnieniem, autoryzacją, kontrolą dostępu
+    - najlepszy sposób ochrony to śledzenie najczęstszych ataków
+

@@ -2,6 +2,8 @@ Szkolenie: "Dlaczego hackowanie aplikacji webowych jest proste? Przegląd najnow
 
 Autor: Michał Sajdak, Sekurak
 
+Szkolenie prezentowało rzeczywiste podatności w aplikacjach webowych (SSRF, RCE, SQL Injection, błędy autoryzacji i resetu haseł) oraz ich konsekwencje. Omówiono przypadki z realnych systemów i odniesiono je do klasyfikacji OWASP Top 10.
+
 Spis treści:
 
 1) Aplikacja AI do analizowania dokumentów i pomocy w wygrywaniu przetargów firmy Minerva:

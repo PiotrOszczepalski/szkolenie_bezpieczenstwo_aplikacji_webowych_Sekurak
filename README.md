@@ -57,33 +57,33 @@ Spis treści:
    - możliwość zarejestrowania się jako administrator poprzez analizę kodu JS i uzyskania danych o kierowcach
 
 16) Aplikacja elektronicznych rejestracji samochodowych w USA:
-    - ta sama podatność co w F1
-    - możliwość ustawienia statusu dowolnego samochodu jako kradziony
+   - ta sama podatność co w F1
+   - możliwość ustawienia statusu dowolnego samochodu jako kradziony
 
-17) GoAnywhere  - aplikacja do wymiany plików:
-    - poprzez specjalne wywołanie błędu 404 można było wykonać dowolny kod na serwerze
+18) GoAnywhere  - aplikacja do wymiany plików:
+   - poprzez specjalne wywołanie błędu 404 można było wykonać dowolny kod na serwerze
 
-18) Czym jest SSRF?
+19) Czym jest SSRF?
 
-19) Oracle E-Business Suite:
-    - z pomocą SSRF znaleziono podatność pozwalającą na wykonanie złośliwego oprogramowania na serwerze
+20) Oracle E-Business Suite:
+   - z pomocą SSRF znaleziono podatność pozwalającą na wykonanie złośliwego oprogramowania na serwerze
 
-20) Oracle Identity Manager oraz produkty firmy Ivanti:
-    - możliwość RCE na serwerze
+21) Oracle Identity Manager oraz produkty firmy Ivanti:
+   - możliwość RCE na serwerze
    
-21) Urządzenie Ubiquiti:
-    - w centralnym gateway można było odwołać się do specyficznego portu i wykonać skrypt na serwerze
+22) Urządzenie Ubiquiti:
+   - w centralnym gateway można było odwołać się do specyficznego portu i wykonać skrypt na serwerze
 
-22) Kamera PTZOptics:
-    - błąd w oprogramowaniu i możliwość nieautoryzowanego zarządzania nią
+23) Kamera PTZOptics:
+   - błąd w oprogramowaniu i możliwość nieautoryzowanego zarządzania nią
 
-23) FortiWeb -  zapora aplikacji internetowych:
-    - SQL Injection na panelu logowania
+24) FortiWeb -  zapora aplikacji internetowych:
+   - SQL Injection na panelu logowania
 
-24) CentOS - środowisko serwerowe:
-    - możliwość zmiany uprawnień do plików bez autoryzacji
+25) CentOS - środowisko serwerowe:
+   - możliwość zmiany uprawnień do plików bez autoryzacji
 
-25) Omówienie OWASP Top 10 - raportu, który opisuje dziesięć najbardziej krytycznych zagrożeń dla bezpieczeństwa aplikacji internetowych:
-    - najczęstsze podatności to błędy związane z uwierzytelnieniem, autoryzacją, kontrolą dostępu
-    - najlepszy sposób ochrony to śledzenie najczęstszych ataków
+26) Omówienie OWASP Top 10 - raportu, który opisuje dziesięć najbardziej krytycznych zagrożeń dla bezpieczeństwa aplikacji internetowych:
+   - najczęstsze podatności to błędy związane z uwierzytelnieniem, autoryzacją, kontrolą dostępu
+   - najlepszy sposób ochrony to śledzenie najczęstszych ataków
 

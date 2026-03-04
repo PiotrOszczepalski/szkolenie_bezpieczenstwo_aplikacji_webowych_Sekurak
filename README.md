@@ -25,7 +25,7 @@ Spis treści:
 6) Aplikacja Subaru:
    - ominięcie 2FA, łatwy reset hasła w ukrytym panelu logowania i dostęp do aplikacji, gdzie można było poznać lokalizację samochodów
 
-7) Aplikacja Gitlab:
+7) Aplikacja GitLab:
    - bardzo podobna podatność do FlowiseAI, możliwość resetu hasła użytkownikowi i włamania na konto
 
 8) Biblioteka React, framework Next.js:
@@ -41,17 +41,17 @@ Spis treści:
 10) Aplikacje Triofox i Confluence:
    - podatność umożliwiająca stworzenie więcej niż jednego administratora
 
-11) King addons for Elementor - plugin Wordpress:
+11) King addons for Elementor - plugin WordPress:
    - możliwość stworzenia nowego użytkownika z uprawnieniami administratora całkowicie anonimowo
 
 12) Internetowe konto pacjenta:
-   - poprzez modyfikację adresu URL można było uzyskać dokumentacje medyczne innych pacjentów
+   - poprzez modyfikację adresu URL można było uzyskać dokumentację medyczne innych pacjentów
 
 13) Wielkopolskie Centrum Medycyny Pracy:
    - ta sama podatność co w IKP
 
 14) Platforma HackerOne:
-   - poprzez modyfikację id w adresie url można było uzyskać dostęp do raportów audytów bezpieczeństwa innych aplikacji
+   - poprzez modyfikację ID w adresie URL można było uzyskać dostęp do raportów audytów bezpieczeństwa innych aplikacji
 
 15) Aplikacja F1:
    - możliwość zarejestrowania się jako administrator poprzez analizę kodu JS i uzyskania danych o kierowcach
@@ -61,7 +61,7 @@ Spis treści:
     - możliwość ustawienia statusu dowolnego samochodu jako kradziony
 
 17) GoAnywhere  - aplikacja do wymiany plików:
-    - poprzez specjalne wywołanie błędu 404 możba było wykonać dowolny kod na serwerze
+    - poprzez specjalne wywołanie błędu 404 można było wykonać dowolny kod na serwerze
 
 18) Czym jest SSRF?
 
@@ -80,7 +80,7 @@ Spis treści:
 23) FortiWeb -  zapora aplikacji internetowych:
     - SQL Injection na panelu logowania
 
-24) CentOs - środowisko serwerowe:
+24) CentOS - środowisko serwerowe:
     - możliwość zmiany uprawnień do plików bez autoryzacji
 
 25) Omówienie OWASP Top 10 - raportu, który opisuje dziesięć najbardziej krytycznych zagrożeń dla bezpieczeństwa aplikacji internetowych:

@@ -39,51 +39,51 @@ Spis treści:
    - kod aplikacji TinyBox został wygenerowany w 100% przez AI i nie uwzględnił ważnych aspektów bezpieczeństwa
 
 10) Aplikacje Triofox i Confluence:
-   - podatność umożliwiająca stworzenie więcej niż jednego administratora
+      - podatność umożliwiająca stworzenie więcej niż jednego administratora
 
 11) King addons for Elementor - plugin WordPress:
-   - możliwość stworzenia nowego użytkownika z uprawnieniami administratora całkowicie anonimowo
+      - możliwość stworzenia nowego użytkownika z uprawnieniami administratora całkowicie anonimowo
 
 12) Internetowe konto pacjenta:
-   - poprzez modyfikację adresu URL można było uzyskać dokumentację medyczne innych pacjentów
+      - poprzez modyfikację adresu URL można było uzyskać dokumentację medyczne innych pacjentów
 
 13) Wielkopolskie Centrum Medycyny Pracy:
-   - ta sama podatność co w IKP
+      - ta sama podatność co w IKP
 
 14) Platforma HackerOne:
-   - poprzez modyfikację ID w adresie URL można było uzyskać dostęp do raportów audytów bezpieczeństwa innych aplikacji
+      - poprzez modyfikację ID w adresie URL można było uzyskać dostęp do raportów audytów bezpieczeństwa innych aplikacji
 
 15) Aplikacja F1:
-   - możliwość zarejestrowania się jako administrator poprzez analizę kodu JS i uzyskania danych o kierowcach
+      - możliwość zarejestrowania się jako administrator poprzez analizę kodu JS i uzyskania danych o kierowcach
 
 16) Aplikacja elektronicznych rejestracji samochodowych w USA:
-   - ta sama podatność co w F1
-   - możliwość ustawienia statusu dowolnego samochodu jako kradziony
+      - ta sama podatność co w F1
+      - możliwość ustawienia statusu dowolnego samochodu jako kradziony
 
 18) GoAnywhere  - aplikacja do wymiany plików:
-   - poprzez specjalne wywołanie błędu 404 można było wykonać dowolny kod na serwerze
+      - poprzez specjalne wywołanie błędu 404 można było wykonać dowolny kod na serwerze
 
 19) Czym jest SSRF?
 
 20) Oracle E-Business Suite:
-   - z pomocą SSRF znaleziono podatność pozwalającą na wykonanie złośliwego oprogramowania na serwerze
+      - z pomocą SSRF znaleziono podatność pozwalającą na wykonanie złośliwego oprogramowania na serwerze
 
 21) Oracle Identity Manager oraz produkty firmy Ivanti:
-   - możliwość RCE na serwerze
+      - możliwość RCE na serwerze
    
 22) Urządzenie Ubiquiti:
-   - w centralnym gateway można było odwołać się do specyficznego portu i wykonać skrypt na serwerze
+      - w centralnym gateway można było odwołać się do specyficznego portu i wykonać skrypt na serwerze
 
 23) Kamera PTZOptics:
-   - błąd w oprogramowaniu i możliwość nieautoryzowanego zarządzania nią
+      - błąd w oprogramowaniu i możliwość nieautoryzowanego zarządzania nią
 
 24) FortiWeb -  zapora aplikacji internetowych:
-   - SQL Injection na panelu logowania
+      - SQL Injection na panelu logowania
 
 25) CentOS - środowisko serwerowe:
-   - możliwość zmiany uprawnień do plików bez autoryzacji
+      - możliwość zmiany uprawnień do plików bez autoryzacji
 
 26) Omówienie OWASP Top 10 - raportu, który opisuje dziesięć najbardziej krytycznych zagrożeń dla bezpieczeństwa aplikacji internetowych:
-   - najczęstsze podatności to błędy związane z uwierzytelnieniem, autoryzacją, kontrolą dostępu
-   - najlepszy sposób ochrony to śledzenie najczęstszych ataków
+      - najczęstsze podatności to błędy związane z uwierzytelnieniem, autoryzacją, kontrolą dostępu
+      - najlepszy sposób ochrony to śledzenie najczęstszych ataków
 

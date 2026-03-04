@@ -11,7 +11,7 @@ Spis treści:
    - można było również uzyskać dostęp do poufnych dokumentów
 
 2) Aplikacja FlowiseAi do tworzenia agentów AI:
-   - podająć adres e-mail dowolnego użytkownika w funkcji resetu hasła można było zresetować mu hasło i dostać się na jego konto
+   - podając adres e-mail dowolnego użytkownika w funkcji resetu hasła można było zresetować mu hasło i dostać się na jego konto
   
 3) Aplikacja AI dla prawników FileVine:
    - odwołanie w komunikacji http do zasobu na AWS, w odpowiedzi można było uzyskać uwierzytelnienie dla pełnego administratora
